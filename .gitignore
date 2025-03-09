@@ -1,0 +1,10 @@
+node_modules/
+__pycache__/
+*.log
+*.tmp
+.vscode/
+.DS_Store
+AppData/
+Local Settings/
+*.sqlite3
+.env

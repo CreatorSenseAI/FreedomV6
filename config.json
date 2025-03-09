@@ -1,0 +1,4 @@
+{
+    "revenue_model": "models/lstm_revenue_weights.h5",
+    "fan_model": "models/lstm_fan_weights.h5"
+}
